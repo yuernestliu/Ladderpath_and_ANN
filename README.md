@@ -8,11 +8,11 @@ This repository includes all the source codes and data for the paper *Correlatin
 
 - **ladderpath.py**: Calculates the ladderpath and $\eta$ of a set of sequences (downloaded from https://github.com/yuernestliu/LadderpathCalculator).
 
-- **mod2dim3.xlsx**: The dataset for the odd-even recognition task.
-
 - **layer1_function_mod.py**: It transforms the neural network into a set of sequences (for the network with one hidden layer), which enables the calculation of the $\eta$ value. The same for layer2_function_mod.py (two hidden layers), and so on.
 
-- **Data_SI**: Contains all the data for the six different tasks described in the Supplementary Information Section 2.
+- **mod2dim3.xlsx**: The dataset for the odd-even recognition task.
+
+- **Data_SI.xlsx**: Contains all the data for the five different tasks described in the Supplementary Information Section 2.
 
 
 

@@ -1,6 +1,5 @@
 # Introduction
-This repository includes all the source codes and data for the paper *Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance* by Zhuoying Xu et al.
-
+This repository includes all the source codes and data for the paper "*Correlating Measures of Hierarchical Structures in Artificial Neural Networks with Their Performance*, npj Complexity, 1, 15, 2024." by Zhuoying Xu et al. https://www.nature.com/articles/s44260-024-00015-x 
 
 
 ## Files
